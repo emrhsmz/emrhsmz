@@ -98,8 +98,8 @@ I'm Emrah, a software engineer, UI and web designer, systems administrator, and 
 ![freebsd](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)
 
 ## Computer
-![Apple laptop](https://img.shields.io/badge/Apple-MacBook_Pro_2012-333333?style=for-the-badge&logo=apple&logoColor=white)
-![Asus Laptop](https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white)
+![Apple laptop](https://img.shields.io/badge/Apple-MacBook_Pro_2022-333333?style=for-the-badge&logo=apple&logoColor=white)
+![Asus Laptop](https://img.shields.io/badge/lenovo%20laptop-000000?style=for-the-badge&logo=lenovo&logoColor=white)
 
 ## Statistics
 
